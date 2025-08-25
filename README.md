@@ -38,3 +38,6 @@ Robots execute sequentially; print each robot’s final position as x y D.
 * Start positions must be within the plateau; headings must be one of N,E,S,W.
 * Instruction strings may contain only L,R,M.
 * Boundary policy: a move that would leave the plateau is ignored (robot stays put).
+
+
+Demo video - https://drive.google.com/file/d/1XTHEKFGdhTmcW2A5RdulvoNVZokMNWFR/view?usp=sharing
